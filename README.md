@@ -1,2 +1,3 @@
-# learnGit
-to learn git 
+# LearnGit
+Lo learn git 
+### Day 1
