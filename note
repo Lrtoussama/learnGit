@@ -1,0 +1,4 @@
+stash : cacher
+parfois on veut pas commit les changement qu on a fais 
+c'est pour cela on peut le cacher dans stash de git et 
+les reutiliser apres 
